@@ -1,1 +1,1 @@
-# Hor-scopo-Python
+# Horóscopo-Python
